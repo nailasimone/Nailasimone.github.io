@@ -1,5 +1,5 @@
-# Nailasimone.github.io
-Cybersecurity portfolio showcasing technical skills, education, certifications, and professional development.
+# Nailasimone.github.im
+Cybersecurity portfolio showcasing foundational technical skills, cybersecurity education, professional experience, and ongoing professional development. 🛡️📚
 # 🔐 Cybersecurity Portfolio – Naila Nash
 
 ## 👋 About Me
