@@ -40,11 +40,15 @@ I bring real-world experience in security operations, logistics, warehouse opera
 ---
 
 ## 📂 Portfolio Sections
-- Projects → see `projects.md`
 - Experience → see `experience.md`
 - Labs → (coming soon)
 
 ---
 
 ## 📌 Goal
-To develop practical cybersecurity skills and transition into a Security Operations or Digital Forensics role.
+To develop practical cybersecurity skills and transition into a Security Operations or Digital Forensics 
+
+## 📂 Portfolio Repositories
+
+- [Professional Experience](https://github.com/nailasimone/professional-experience)
+
